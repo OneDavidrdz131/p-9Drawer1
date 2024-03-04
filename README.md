@@ -20,3 +20,13 @@ samples, guidance on mobile development, and a full API reference.
 
 ## link de referencia para drawer
 - https://api.flutter.dev/flutter/widgets/ListView-class.html
+##Liks de referencias
+https://appmaking.com/flutter-drawer-example/
+https://codesinsider.com/flutter-appbar-example-tutorial/?expand_article=1#google_vignette
+
+##Practica terminada
+![image](https://github.com/OneDavidrdz131/p-9Drawer1/assets/143547422/d0a548c7-3c6d-41ea-85f9-69cf800143ed)
+![image](https://github.com/OneDavidrdz131/p-9Drawer1/assets/143547422/d9c7765a-5558-4167-8959-8955590c2ca3)
+
+
+
